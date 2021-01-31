@@ -1,4 +1,4 @@
 
-node 'puppet' {
+node 'puppetagent' {
   include role::webserver
 }
