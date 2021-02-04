@@ -9,5 +9,4 @@ mod 'puppetlabs/mysql', '3.6.2'
 mod 'nanliu/staging', '1.0.3'
 mod 'puppetlabs/apt'
 mod 'puppetlabs/java'
-mod 'rtyler/jenkins'
-mod 'stahnma/epel'
+
