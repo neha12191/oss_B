@@ -1,4 +1,3 @@
-
 node 'puppetagent' {
   include role::webserver
   include jenkins
@@ -8,4 +7,3 @@ class {'jenkins':
 }
 
 jenkins::plugin{ 'git': }
-class { 'src': }
